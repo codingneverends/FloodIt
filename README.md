@@ -1,2 +1,2 @@
 # FloodIt
-Floodit - Game developed using html and javascript.
+Floodit - Game developed using html and JavaScript.
